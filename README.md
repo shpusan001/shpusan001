@@ -21,7 +21,7 @@ Personal Activity | 2015.08.04 | [Adobe Flash 기반 슈팅게임 'Survive' 개�
 Persnoal Activity | 2020.04 ~ 2020.06 | [MFC 기반 '사과받기 게임' 개발](https://github.com/shpusan001/AppleSaveGame) | Personal & Dongeui University
 |Personal Activity|2020.04 ~ 2020.06 | [OpenGL 기반 'Space@Shooter' 게임 개발](https://github.com/shpusan001/SpaceShooter) | Personal & Dongeui University |
 Personal Activity| 2021.09 ~ 2021.10 | [TCP프로토콜을 활용한 메시지 전송 서버 구축 라이브러리 'Pusha2' 개발](https://github.com/shpusan001/Pusha2)|Personal |
-Personal Activity | 2021.10 ~ 2021.11 | [상호 요청 허락 기반 파일 전송 시스템 'Dekilla' 개발](https://github.com/shpusan001/Dekilla) |Personal
+Personal Activity | 2021.10 ~ 2021.11 | [상호 요청 허락 메커니즘 파일 전송 시스템 'Dekilla' 개발](https://github.com/shpusan001/Dekilla) |Personal
 | External Activity | 2021.06 ~</br>2021.11 | [국내 최대 규모 2021 공개 SW 공모전 동상(기원후원상)<br />큐브리드  상 수상](https://github.com/shpusan001/Everyone-Tayo) | [정보통신산업진흥원(OSS)](https://www.oss.kr/dev_competition_activities/show/1410e6c2-8939-4806-8e81-16058edba58b?page=2) |
 | Internal Activity |        2021.09 ~</br>2021.12| [ROS(Robot OS) 기반 도로주행시험장 자율주행 시스템 개발](https://github.com/shpusan001/Autonomous-driving-system)| Dongeui University | 
 
