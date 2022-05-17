@@ -13,7 +13,7 @@
 
 |        Type         |          Date           |                           Contents                           | Organization                                                  |
 | :-----------------: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------- |
-Personal Activity| 2021.09 ~ 2021.10 | [TCP프로토콜을 활용한 JVM전용 RPC구축 라이브러리 Pusha2 개발](https://github.com/shpusan001/Pusha2)|Personal 
+Personal Activity| 2021.09 ~ 2021.10 | [TCP프로토콜을 활용한 메시지 전송 서버 구축 라이브러리 Pusha2 개발](https://github.com/shpusan001/Pusha2)|Personal 
 | External Activity | 2021.06 ~</br>2021.11 | [국내 최대 규모 2021 공개 SW 공모전 동상(기원후원상)<br />큐브리드  상 수상](https://github.com/shpusan001/Everyone-Tayo) | [정보통신산업진흥원(OSS)](https://www.oss.kr/dev_competition_activities/show/1410e6c2-8939-4806-8e81-16058edba58b?page=2) |
 | Internal Activity |        2021.09 ~</br>2021.12| [PROJECT::ROS 기반 도로주행시험장 자율주행](https://github.com/shpusan001/Autonomous-driving-system)| Dongeui University | 
 
