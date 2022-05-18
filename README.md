@@ -13,9 +13,6 @@
 
 |        Type         |          Date           |                           Contents                           | Organization                                                  |
 | :-----------------: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------- |
-Personal Activity| 2010.08.09 | [Adobe Flash 기반 격파게임 '건물 부수기' 개발](https://youtu.be/SVkf-Db5eVM) |[플래시 365](http://www.flash365.co.kr/game/view.php?id=author&no=110713)
-Personal Activity | 2010.11.13 | [Adobe Flash 기반 탑뷰 게임 '좀비시나리오' 개발](https://youtu.be/iolRTHC9p6c) | [플래시 365](http://www.flash365.co.kr/game/view.php?id=author&no=112727) |
-Personal Activity | 2010.12.12 | [Adobe Flash 기반 슈팅 디펜스 게임 '살아남기 디펜스' 개발](https://youtu.be/G9OpGNcn4n8) | [주전자 닷컴](http://www.zuzunza.com/wroom.html?writer=shpusan001)
 Personal Activity | 2015.01.20 | [Adobe Flash 기반 플랫포머 게임 '똥피하기 병맛 꿇꿹뷀뚥끽꽥뿕깏' 개발](https://www.youtube.com/watch?v=DdjI4vOM1e8) | [주전자 닷컴](http://www.zuzunza.com/wroom.html?writer=shpusan001) |
 Personal Activity | 2015.08.04 | [Adobe Flash 기반 슈팅게임 'Survive' 개발](https://youtu.be/WS0r1CpnLkM) |[주전자 닷컴](http://www.zuzunza.com/wroom.html?writer=shpusan001)|
 Persnoal Activity | 2020.04 ~ 2020.06 | [MFC 기반 '사과받기 게임' 개발](https://github.com/shpusan001/AppleSaveGame) | Personal & Dongeui University
