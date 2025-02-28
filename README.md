@@ -27,7 +27,7 @@ Personal Activity | 2022.02 | [일정관리 앱 'Orange Planner' 개발 및 출�
 Co-op Activity | 2022.04 ~ 2022.06 | [자유 여행 플랫폼 'gogo.' 개발](https://github.com/shpusan001/FreeTraveler) | Dongeui University |
 Co-op Activity | 2022.04 ~ 2022.06 | [빈 강의실 예약 시스템 개발](https://github.com/shpusan001/LabBookingSystem) | Dongeui University |
 Personal Activity | 2022.11 ~ 2022.12 | [Dexparser(Dex파일 파서) 개발](https://github.com/shpusan001/dexparser) | Personal |
-Company | 2023.10 ~ | Ahnlab(안랩) 근무 | Company |
+Company | 2022.10 ~ | Ahnlab(안랩) 근무 | Company |
 
 
 
